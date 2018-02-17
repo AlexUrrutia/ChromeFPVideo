@@ -7,4 +7,4 @@ Google Chrome: Plays audio only, no video<br>
 
 
 Safari screenshot:<br>![Safari](https://github.com/AlexUrrutia/ChromeFPVideo/blob/master/screenshots/safari.png?raw=true "Safary plays video fine")<br>
-Chrome screenshot:<br>![Chrome](https://github.com/AlexUrrutia/ChromeFPVideo/blob/master/screenshots/chrome.png?raw=true "Audio only")
+Chrome screenshot (audio only):<br>![Chrome](https://github.com/AlexUrrutia/ChromeFPVideo/blob/master/screenshots/chrome.png?raw=true "Audio only")
