@@ -1,4 +1,4 @@
-# ChromeFPVideo
+# Playing Video (Flash Player) on Desktop Browsers will fail on Google Chrome
 Starling/Feathers Video playing on desktop web browsers:<br><br>
 Safari: it works<br>
 Firefox: it works<br>
